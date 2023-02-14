@@ -7,4 +7,3 @@ class Senha():
 
     def chamar_senha(self):
         self.senha.pop(0)
-        
